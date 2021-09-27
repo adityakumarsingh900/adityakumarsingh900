@@ -12,7 +12,10 @@
 - [Demo of an Admin Panel Layout](https://adityakumarsingh900.github.io/appLayout/)
 - [How to implement Google Maps in ReactJS without any external maps library](https://adityakumarsingh900.github.io/googleMapsInReact/)
 - [How to use HTML5 Drag and Drop API in ReactJS without any node library](https://adityakumarsingh900.github.io/ReactWithHtmlDragAndDrop/)
-
+- [How to update an array without re-rendering all items](https://codesandbox.io/s/update-array-with-minimal-rendering-roexb)
+- [How to add a "Load More" feature in ReactJS (Custom Hook)](https://codesandbox.io/s/onloadmore-react-custom-hook-u7nqn)
+- [How to call component's funtion from outside / Parent to Child call(RxJS)](https://codesandbox.io/s/event-emitters-kuh1z)
+ 
 <!---
 adityakumarsingh900/adityakumarsingh900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
