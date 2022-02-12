@@ -16,6 +16,10 @@
 - [Update an array without re-rendering all items](https://codesandbox.io/s/update-array-with-minimal-rendering-roexb)
 - ["Load More" feature in ReactJS (Custom Hook)](https://codesandbox.io/s/onloadmore-react-custom-hook-u7nqn)
 - [Call component's funtion from outside / Parent to Child call(RxJS)](https://codesandbox.io/s/event-emitters-kuh1z)
+
+##
+![Github Stats](https://github-readme-stats.vercel.app/api?username=adityakumarsingh900&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumarsingh900&hide=TeX&layout=compact)
  
 <!---
 adityakumarsingh900/adityakumarsingh900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
