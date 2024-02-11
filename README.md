@@ -1,15 +1,16 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adityakumarsingh900)
 - <h2>🙏 नमस्ते (Namaste), I’m Aditya.</h2> <img align='right' src="https://github.com/amandewatnitrr/amandewatnitrr/raw/main/terminal.gif" width="330">
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="18"> I’m a professional software developer with 4+ yrs of experience.
-- 👀 I’m interested in Javascript, jQuery, ReactJS...
-- 🌱 I’m currently working on how to apply solid principles in ReactJS....
-- 💞️ I love to create React components and beautiful UI...
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="18"> I’m a professional software developer.
+- 👀 I’m interested in Javascript & ReactJS...
+- 🌱 I’m currently working on my [personal project](https://adityakumarsingh900.github.io/prep_me/#)
+- 💞️ I love Frontend development...
 - 📫 Please contact me at: 
   - 💻 [https://www.linkedin.com/in/aditya-kumar-singh-a8b584106/](https://www.linkedin.com/in/aditya-kumar-singh-a8b584106/)
   - 💬 adityakumarsingh900@gmail.com
   - 📞 +91 8791659121
 
 ## #i-made-this
+- [Prepare Me Just Before An Interview](https://adityakumarsingh900.github.io/prep_me/#)
 - [Demo of an Admin Panel Layout](https://adityakumarsingh900.github.io/appLayout/)
 - [Google Maps in ReactJS without any external maps library](https://adityakumarsingh900.github.io/googleMapsInReact/)
 - [HTML5 Drag and Drop API in ReactJS without any node library](https://adityakumarsingh900.github.io/ReactWithHtmlDragAndDrop/)
